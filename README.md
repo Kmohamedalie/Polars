@@ -1,5 +1,5 @@
 # [Polars 🐻‍❄️](https://pola.rs/)
-Next generation dataframe with 50x performance
+Next generation dataframe with 50x performance ⚡
 
 
 
